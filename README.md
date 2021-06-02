@@ -1,4 +1,5 @@
-Hello, My Friends  
+This is a Travel Site to explore different destinations.
+
 Thank you for having interest in this repository ! 
 
 To use this application, 
