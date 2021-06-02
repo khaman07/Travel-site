@@ -7,13 +7,13 @@ const { Title } = Typography;
 const { TextArea } = Input;
 
 const Continents = [
-    { key: 1, value: "Africa" },
-    { key: 2, value: "Europe" },
-    { key: 3, value: "Asia" },
-    { key: 4, value: "North America" },
-    { key: 5, value: "South America" },
-    { key: 6, value: "Australia" },
-    { key: 7, value: "Antarctica" }
+    { key: 1, value: "Rajasthan" },
+    { key: 2, value: "Punjab" },
+    { key: 3, value: "M.P." },
+    { key: 4, value: "Maharashtra" },
+    { key: 5, value: "U.P." },
+    { key: 6, value: "Delhi" },
+    { key: 7, value: "Gujarat" }
 ]
 
 function UploadProductPage(props) {
@@ -103,7 +103,7 @@ function UploadProductPage(props) {
                 />
                 <br />
                 <br />
-                <label>Price($)</label>
+                <label>Price(Rs.)</label>
                 <Input
                     onChange={onPriceChange}
                     value={PriceValue}
