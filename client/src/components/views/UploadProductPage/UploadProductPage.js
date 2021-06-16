@@ -10,7 +10,7 @@ const Continents = [
     { key: 1, value: "Rajasthan" },
     { key: 2, value: "Punjab" },
     { key: 3, value: "M.P." },
-    { key: 4, value: "Maharashtra" },
+    { key: 4, value: "Maharasthra" },
     { key: 5, value: "U.P." },
     { key: 6, value: "Delhi" },
     { key: 7, value: "Gujarat" }
